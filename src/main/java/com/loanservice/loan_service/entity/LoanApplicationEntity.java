@@ -1,4 +1,4 @@
-package com.example.loan.entity;
+package com.loanservice.loan_service.entity;
 
 import com.loanservice.loan_service.domain.enums.ApplicationStatus;
 import com.loanservice.loan_service.domain.enums.RiskBand;
