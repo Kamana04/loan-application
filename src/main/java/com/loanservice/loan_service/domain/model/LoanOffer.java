@@ -1,10 +1,12 @@
 package com.loanservice.loan_service.domain.model;
 
-import lombok.Data;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
 
 import java.math.BigDecimal;
 
-@Data
+@AllArgsConstructor
+@Getter
 public class LoanOffer {
 
     private BigDecimal interestRate;
