@@ -1,7 +1,7 @@
 package com.loanservice.loan_service.domain.enums;
 
 public enum LoanPurpose {
-    PERAONAL,
+    PERSONAL,
     HOME,
     AUTO
 }
